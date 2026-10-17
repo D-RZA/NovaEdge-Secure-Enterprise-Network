@@ -1,0 +1,15 @@
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Working backups, temporary files, and logs
+*.bak
+*.tmp
+*.swp
+*.log
+~$*
+
+# Do not ignore the real Packet Tracer .pkt, diagrams, or evidence files.
